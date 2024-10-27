@@ -15,7 +15,7 @@
 - **Languages:** Go, JavaScript, Python
 - **Frameworks:** React, Node.js, Gorm, Gin
 - **Databases:** PostgreSQL, MongoDB, MySQL, SQL Server
-- **Other Tools:** Docker, GitShell, AWS, Oracle Cloud
+- **Other Tools:** Docker, GitShell, AWS, Oracle Cloud, nmap, nikto, wpscan, metasploit
 
 ## 📈 My Projects
 
