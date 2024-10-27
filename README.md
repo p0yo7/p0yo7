@@ -18,9 +18,8 @@
 - **Other Tools:** Docker, GitShell, AWS, Oracle Cloud, nmap, nikto, wpscan, metasploit
 
 ## 📈 My Projects
-
-- [Automated Pentesting](https://github.com/p0yo7/MoonTech-Backend): A Rust-based project that automates the process of finding and exploiting vulnerabilities using various scanning and exploitation tools and techniques.
-- [Moontech Sage](https://github.com/p0yo7/automated-pentesting): A project built with React and Go designed to optimize the pre-sale process for a software development company.
+- [Automated Pentesting](https://github.com/p0yo7/automated-pentesting): A Rust-based project that automates the process of finding and exploiting vulnerabilities using various scanning and exploitation tools and techniques.
+- [Moontech Sage](https://github.com/p0yo7/MoonTech-Backend): A project built with React and Go designed to optimize the pre-sale process for a software development company.
 
 ## 💬 Connect with Me
 
