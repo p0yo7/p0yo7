@@ -1,4 +1,4 @@
-# Hello, I'm Sylvia Cortés 👋
+# Hello, I'm Cortés 👋
 
 ### 😄 Pronouns: Any/All
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p0yo7&show_icons=true&theme=radical)](https://github.com/p0yo7)
