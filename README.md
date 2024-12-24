@@ -7,7 +7,7 @@
 
 - 🌍 I’m from Mexico.
 - 👨‍💻 Backend developer with a focus on cybersecurity.
-- 💼 Currently working at NSG and Vortem.
+- 💼 Currently working at Vortem.
 - 📚 Learning about cybersecurity, and kernels.
 
 ## 🛠️ Technologies and Tools
